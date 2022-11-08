@@ -1,2 +1,2 @@
-# Project---03-
-This is my project 03 for CSCI40. 
+# Project 03
+The ebay-dl.py file in this repositiory is a web scraper that scrapes ebay based on a given specific search term. 
