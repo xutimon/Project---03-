@@ -1,5 +1,5 @@
 # Project 03
-This is the [link] (https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_03) to the project instructions. 
+This is the [link](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_03) to the project instructions. 
 
 The `ebay-dl.py` file in this repositiory is a web scraper that scrapes ebay based on a given specific search term. Specifically, it scrapes the first 10 pages of the results of a search term looking for item names, the items' price, what the items' status is, shipping costs (if any), whether the items have free returns, and how many of the items has been sold (if the information is availible). Note that for me personally, it seems that ebay's anti-bot detector begins to kick in at page 5 of any given search term. 
 
